@@ -1,0 +1,27 @@
+{
+  "name": "oc-registry",
+  "version": "1.0.0",
+  "description": "mock registry",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Albosonic/oc-registry.git"
+  },
+  "keywords": [
+    "registry"
+  ],
+  "author": "Alberto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Albosonic/oc-registry/issues"
+  },
+  "homepage": "https://github.com/Albosonic/oc-registry#readme",
+  "dependencies": {
+    "oc": "^0.44.11",
+    "oc-gs-storage-adapter": "^1.0.1"
+  }
+}
