@@ -13,7 +13,7 @@ var configuration = {
     options: {
         projectId: 'mock-oc-registry',
         bucket: 'us.artifacts.mock-oc-registry.appspot.com',
-        path: '//us.artifacts.mock-oc-registry.appspot.com',
+        path: 'gs://us.artifacts.mock-oc-registry.appspot.com',
         componentsDir: 'components',
     }
   },
