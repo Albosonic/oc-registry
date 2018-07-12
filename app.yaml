@@ -1,7 +1,7 @@
-<<<<<<< HEAD
-env: flex
-runtime: nodejs
-=======
+
+
+
+
 #	Copyright 2018, Google LLC.
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -18,4 +18,4 @@ runtime: nodejs
 # [START runtime]
 runtime: nodejs8
 # [END runtime]
->>>>>>> 90a3ecb7cd9fc57c8daebf7a2368ac2b05426046
+
