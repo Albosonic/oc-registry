@@ -12,8 +12,8 @@ var configuration = {
     adapter: gs,
     options: {
         projectId: 'mock-oc-registry',
-        bucket: 'us.artifacts.mock-oc-registry.appspot.com',
-        path: 'gs://us.artifacts.mock-oc-registry.appspot.com',
+        bucket: 'mock-oc-registry.appspot.com',
+        path: 'gs://mock-oc-registry.appspot.com',
         componentsDir: 'components',
     }
   },
